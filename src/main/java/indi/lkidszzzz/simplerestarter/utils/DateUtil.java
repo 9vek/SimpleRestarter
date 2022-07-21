@@ -9,6 +9,7 @@ public class DateUtil {
         SimpleDateFormat sdf = new SimpleDateFormat("HH:mm");
         return sdf.format(new Date());
     }
+
     //test
     public static void main(String[] args) {
         System.out.println(getNowTime());
