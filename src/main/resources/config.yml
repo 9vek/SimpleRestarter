@@ -1,0 +1,7 @@
+Settings:
+  #daily/weekly
+  Mode: daily
+  Time:
+    Hour: 4
+    Minute: 0
+    Second: 0

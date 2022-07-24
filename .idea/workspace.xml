@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SimpleRestarter:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -23,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2CG3Rhrq2zIvkfcksM7tODXA9nO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,13 +41,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "模块",
+    "project.structure.last.edited": "工件",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.TimeUtil">
     <configuration name="DateUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="indi.lkidszzzz.simplerestarter.utils.DateUtil" />
       <module name="SimpleRestarter" />
@@ -53,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.lkidszzzz.simplerestarter.utils.TimeUtil" />
+      <module name="SimpleRestarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.lkidszzzz.simplerestarter.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TimeUtil" />
         <item itemvalue="应用程序.DateUtil" />
       </list>
     </recent_temporary>
@@ -69,6 +91,8 @@
       <updated>1658415088619</updated>
       <workItem from="1658415091387" duration="3405000" />
       <workItem from="1658419051460" duration="4210000" />
+      <workItem from="1658423694822" duration="306000" />
+      <workItem from="1658476789626" duration="11427000" />
     </task>
     <servers />
   </component>
