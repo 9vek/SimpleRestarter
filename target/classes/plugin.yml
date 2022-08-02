@@ -1,6 +1,6 @@
 name: SimpleRestarter
-version: ${project.version}
-main: indi.lkidszzzz.simplerestarter.SimpleRestarter
-api-version: 1.13
-author: lkidszzzz
-description: Restart your minecraft server simply and automatically.
+version: 1.0
+main: cn.kevyn.simplerestarter.SimpleRestarter
+api-version: 1.18
+author: kevyn
+description: Restart your minecraft server automatically.

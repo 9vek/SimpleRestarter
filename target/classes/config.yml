@@ -1,0 +1,2 @@
+restart-by-interval: false
+restart-interval-in-ticks: 1000

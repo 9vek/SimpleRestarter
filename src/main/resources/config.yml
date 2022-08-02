@@ -1,7 +1,2 @@
-Settings:
-  #daily/weekly
-  Mode: daily
-  Time:
-    Hour: 4
-    Minute: 0
-    Second: 0
+restart-by-interval: false
+restart-interval-in-ticks: 1000

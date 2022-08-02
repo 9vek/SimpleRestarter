@@ -1,4 +1,4 @@
-package indi.lkidszzzz.simplerestarter.utils;
+package cn.kevyn.simplerestarter.utils;
 
 import java.time.Instant;
 import java.time.LocalDateTime;
